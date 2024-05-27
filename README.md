@@ -16,7 +16,7 @@ You can find the projects i have been working on here, as a Computer Engineering
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betulyildizs&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=betulyildizs&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=betulyildizs&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=betulyildizs&theme=dracula)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=betulyildizs&color=green)
