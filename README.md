@@ -5,23 +5,21 @@ You can find the projects i have been working on here, as a Computer Engineering
 
 ## Skills
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=purple)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=yellow)
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=green)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=pink)
 
-##Github Stats
+## Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=betulyildizs&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betulyildizs&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=betulyildizs&theme=cobalt)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=betulyildizs&theme=radical)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=betulyildizs&theme=radical)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=betulyildizs&color=green)
-![GitHub followers](https://img.shields.io/github/followers/betulyildizs?label=Follow&style=social)
-
 <!--
 **betulyildizs/betulyildizs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
