@@ -13,7 +13,9 @@ You can find the projects i have been working on here, as a Computer Engineering
 ## Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=betulyildizs&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betulyildizs&layout=compact&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=betulyildizs&theme=radical)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=betulyildizs&theme=dracula)
