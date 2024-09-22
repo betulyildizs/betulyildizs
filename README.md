@@ -9,7 +9,7 @@ You can find the projects i have been working on here, as a Computer Engineering
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=yellow)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=green)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=pink)
-Mendix
+![Mendix](https://images.squarespace-cdn.com/content/v1/5dfa2c39017ba35b991218b8/0f7d6d54-1b09-4a81-afe6-6b8571ca0c5a/Mendix-Primary-Logo-RGB-Blue-Large.png?format=500w)
 ## Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=betulyildizs&show_icons=true&theme=radical)
