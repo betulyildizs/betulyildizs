@@ -9,7 +9,7 @@ You can find the projects i have been working on here, as a Computer Engineering
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=yellow)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=green)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=pink)
-[Mendix]
+Mendix
 ## Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=betulyildizs&show_icons=true&theme=radical)
