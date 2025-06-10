@@ -20,7 +20,7 @@ You can find the projects i have been working on here, as a Computer Engineering
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=betulyildizs&theme=dracula)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=betulyildizs&layout=compact&theme=radical&custom_title=Kodlama%20Zamanım)
+![3D Contribution Graph](https://github-readme-3d-contributions.vercel.app/api?username=betulyildizs&theme=github_dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=betulyildizs&color=green)
 <!--
