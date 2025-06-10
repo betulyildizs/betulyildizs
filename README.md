@@ -20,7 +20,7 @@ You can find the projects i have been working on here, as a Computer Engineering
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=betulyildizs&theme=dracula)
 
-![Snake Game](https://github.com/betulyildizs/betulyildizs/blob/output/github-contribution-grid-snake.svg)
+![Snake Game](https://github.com/betulyildizs/blob/output/github-contribution-grid-snake.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=betulyildizs&color=green)
 <!--
