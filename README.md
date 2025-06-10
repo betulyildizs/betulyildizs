@@ -20,8 +20,6 @@ You can find the projects i have been working on here, as a Computer Engineering
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=betulyildizs&theme=dracula)
 
-![Snake Game](https://raw.githubusercontent.com/betulyildizs/betulyildizs/output/github-contribution-grid-snake.svg)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=betulyildizs&color=green)
 <!--
 **betulyildizs/betulyildizs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
