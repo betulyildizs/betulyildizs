@@ -1,20 +1,30 @@
-name: Generate Snake Game
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Her gün 00:00'da çalışır
+  workflow_dispatch:      # Manuel çalıştırmaya izin verir
+  push:
+    branches: [ main ]    # main branch'e push yapıldığında tetikler
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: ./assets/github-contribution-grid-snake.svg
-      - uses: actions/commit@v1
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            
+      - name: Push Changes
+        uses: actions-js/push@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          commit_message: "Update snake game"
+          branch: main
